@@ -1,0 +1,29 @@
+
+#results {
+    display:none;
+  }
+
+body
+{
+    background: linear-gradient(to right, rgb(187, 150, 235), rgb(150, 64, 190), rgb(104, 55, 196));
+
+}
+
+div.card.card-body
+{
+    border-radius: 30px;
+    background: rgb(209, 169, 221);
+}
+
+span.input-group-addon, h1, h5
+{
+    background: black;
+    color: rgb(177, 133, 235);
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    margin: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}   
